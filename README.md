@@ -18,6 +18,14 @@ Web developer based in Helsinki.
 
 - LEMP
 
-### My Blog
 
-> [stacknatic.com](https://www.stacknatic.com)
+
+
+
+### Recent project
+
+- [stacknatic.com](https://www.stacknatic.com)
+>  A light multipurpose blog with SEO built with the django framework.
+
+![stacknatic](https://user-images.githubusercontent.com/98211469/224079910-9ba6f5ba-db49-4a4a-a0dc-dad86068caaa.png)
+
