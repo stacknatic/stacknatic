@@ -1,6 +1,6 @@
 ## Michael Akerele @aces563
 
-Web developer based in Helsinki.
+Full stack web developer based in Helsinki.
 
 ### Programming languages
 
