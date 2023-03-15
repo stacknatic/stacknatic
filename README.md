@@ -25,7 +25,7 @@ Full stack web developer based in Helsinki.
 ### Recent project
 
 - [stacknatic.com](https://www.stacknatic.com)
->  A light multipurpose blog with **SEO** built with the Django framework.
+>  A light multipurpose blog with **SEO** built with the Django web framework.
 
 ![stacknatic](https://user-images.githubusercontent.com/98211469/224079910-9ba6f5ba-db49-4a4a-a0dc-dad86068caaa.png)
 
