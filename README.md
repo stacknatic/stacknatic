@@ -1,4 +1,4 @@
-## Michael Akerele @aces563
+## Michael Akerele @stacknatic
 
 Full stack web developer based in Helsinki.
 
