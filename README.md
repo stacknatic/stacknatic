@@ -2,6 +2,8 @@
 
 Full stack web developer based in Helsinki.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacknatic)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Programming languages
 
 - PHP
