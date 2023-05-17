@@ -18,10 +18,6 @@ Full stack web developer based in Helsinki.
 
 - LEMP
 
-![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=stacknatic&theme=jolly&show_icons=true)
-
-
-
 ### Recent project
 
 - [stacknatic.com](https://www.stacknatic.com)
