@@ -1,13 +1,6 @@
 # Michael Akerele @stacknatic
 
-Full stack web developer based in Helsinki.
-
 ## Tech Stack
-
-### Operating Systems (OS)
-
-![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MAC OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 ### Servers
 
