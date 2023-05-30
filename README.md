@@ -35,7 +35,7 @@
 ![REDIS](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
 ![DOCKER](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 
-### Recent project
+### Ongoing project
 
 - [stacknatic.com](https://www.stacknatic.com)
 >  A light multipurpose blog with **SEO** built with the Django web framework.
