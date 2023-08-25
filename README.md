@@ -12,7 +12,7 @@ Aside from my legal profession, I've spent the last 4 years managing websites on
 
 ## The Content Creator in Me
 
-If you can't find me scrutinizing legal documents or coding away, you're likely to catch me blogging. Writing is not just a hobby for me; it's a way to engage with the world, share insights, and contribute to the broader dialogue. My blog covers a myriad of topics, ranging from legal analyses to web management tips.
+If you can't find me scrutinizing legal documents or coding away, you're likely to catch me blogging. Writing is not just a hobby for me; it's a way to engage with the world, share insights, and contribute to the broader dialogue. My blogs cover a myriad of topics, ranging from legal analyses to web management tips.
 
 ## The Chess Enthusiast in Me
 
