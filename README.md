@@ -1,7 +1,8 @@
 # Michael Akerele @stacknatic
 
 I'm a seasoned Web Manager with over 4 years of experience in managing websites across various major web servers. My journey in the digital realm has been fueled by my love for coding, troubleshooting, and optimizing for the best user experience. I pride myself on my attention to detail and my ability to solve complex problems with elegant solutions.
-Coding Enthusiast 🛠️
+
+## Coding Enthusiast 🛠️
 
 When I'm not busy managing websites, you'll find me elbow-deep in code. Whether it's tweaking the front-end for better user experience or diving into back-end complexities, coding is a passion that I continue to nourish every day.
 
@@ -12,7 +13,8 @@ In an effort to give back to the community and share my insights, I maintain an 
 ## Chess Player ♟️
 
 Ah, the game of kings! When I'm not in front of a computer screen, you'll often find me engrossed in a game of chess. Chess not only keeps my mind sharp but also mirrors many aspects of my professional life—it's all about strategy, foresight, and the ability to think several moves ahead.
-Let's Connect!
+
+### Let's Connect!
 
 I'm always open to discussing tech, web management, or even a game of chess. Feel free to reach out to me for collaborations, consultations, or a friendly chat!
 
