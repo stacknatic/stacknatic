@@ -13,7 +13,8 @@ Aside from my legal profession, I've spent the last 4 years managing websites on
 ## The Content Creator in Me
 
 If you can't find me scrutinizing legal documents or coding away, you're likely to catch me blogging. Writing is not just a hobby for me; it's a way to engage with the world, share insights, and contribute to the broader dialogue. My blog covers a myriad of topics, ranging from legal analyses to web management tips.
-The Chess Enthusiast in Me
+
+## The Chess Enthusiast in Me
 
 Chess is more than a game; it's a way of life. Whenever I have some downtime, I'm often found contemplating my next move on the chessboard. The strategic thinking and foresight required in chess have invariably helped me in both my legal and tech endeavors.
 
