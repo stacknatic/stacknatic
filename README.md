@@ -4,10 +4,12 @@ I'm a seasoned Web Manager with over 4 years of experience in managing websites 
 Coding Enthusiast 🛠️
 
 When I'm not busy managing websites, you'll find me elbow-deep in code. Whether it's tweaking the front-end for better user experience or diving into back-end complexities, coding is a passion that I continue to nourish every day.
-Blogger 🖋️
+
+## Blogger 🖋️
 
 In an effort to give back to the community and share my insights, I maintain an active blog. My posts range from web management tips, coding tutorials, to dissecting the latest tech trends. Blogging not only allows me to articulate my thoughts but also helps me stay up-to-date with the ever-changing tech landscape.
-Chess Player ♟️
+
+## Chess Player ♟️
 
 Ah, the game of kings! When I'm not in front of a computer screen, you'll often find me engrossed in a game of chess. Chess not only keeps my mind sharp but also mirrors many aspects of my professional life—it's all about strategy, foresight, and the ability to think several moves ahead.
 Let's Connect!
